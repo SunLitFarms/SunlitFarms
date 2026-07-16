@@ -603,3 +603,22 @@ transform:none;
     max-width:500px;
     margin:0 auto;
 }
+.tagline{
+
+font-family:'DM Serif Display', serif;
+
+font-style:italic;
+
+font-size:1.6rem;
+
+color:#D9A441;
+
+letter-spacing:1px;
+
+margin-top:15px;
+
+text-align:center;
+
+opacity:.95;
+
+}
